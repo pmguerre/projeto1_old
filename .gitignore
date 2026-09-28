@@ -1,0 +1,11 @@
+# .gitignore
+
+__pycache__/
+
+# Ficheiros de backup
+*.bak
+*~
+
+# Ambientes virtuais
+.venv/
+.env/
